@@ -4,6 +4,8 @@
 
 I'm Yasmine Cherif, from Tunisia. I'm a Full-Stack Developer, Cloud engineering enthusiast. I'm really open to any opportunity that will give me the chance to start a new adventure, express my creativity and acquire new skills.
 
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Developer;UI/UX+Designer;Always%20learning%20new%20things&center=false&width=500&height=50"></a>
+
 ### Social accounts
   - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CherifYasmine) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yasmine-cherif-0498b01b3/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/yasmine.cherif.104)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/messenger.svg' alt='email' height='40'>](mailto:yasmine.chirif@insat.u-carthage.tn)
   - https://yasminecherif.herokuapp.com/
