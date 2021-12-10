@@ -29,6 +29,7 @@ I'm Yasmine Cherif, from Tunisia. I'm a Full-Stack Developer, Cloud engineering 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="50px" width="50px" style="vertical-align:top; margin:4px">
+  <img alt="Linux" width="50px" height="40px" src="https://iconape.com/wp-content/png_logo_vector/linux-tux.png"; margin:4px />
  <img alt="Docker" width="50px" height="40px" src="https://iconape.com/wp-content/files/fr/370801/svg/docker-icon-logo-icon-png-svg.png"; margin:4px />
 <img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"; margin:4px />
 </p>
