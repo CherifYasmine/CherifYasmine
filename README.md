@@ -1,6 +1,7 @@
 ## About Me
 
 ### Hi there 👋
+ ![Count](https://visitor-badge.laobi.icu/badge?page_id=CherifYasmine.CherifYasmine) [![Github](https://img.shields.io/github/followers/CherifYasmine?label=Follow&style=social)](https://github.com/CherifYasmine) 
 
 I'm Yasmine Cherif, from Tunisia. I'm a Full-Stack Developer, Cloud engineering enthusiast. I'm really open to any opportunity that will give me the chance to start a new adventure, express my creativity and acquire new skills.
 
