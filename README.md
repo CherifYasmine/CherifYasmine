@@ -28,8 +28,8 @@ I'm Yasmine Cherif, from Tunisia. I'm a Full-Stack Developer, Cloud engineering 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="Cpp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40px" width="40px" style="vertical-align:top; margin:4px">
- <img alt="Docker" width="40px" height="40px" src="https://iconape.com/wp-content/files/fr/370801/svg/docker-icon-logo-icon-png-svg.png"; margin:4px />
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60px" width="60px" style="vertical-align:top; margin:4px">
+ <img alt="Docker" width="60px" height="40px" src="https://iconape.com/wp-content/files/fr/370801/svg/docker-icon-logo-icon-png-svg.png"; margin:4px />
 <img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"; margin:4px />
 </p>
 
